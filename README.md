@@ -1,5 +1,5 @@
 
-# Demographic Data Analysis
+# Demographic Data Analyzer
 
 ## Introduction
 
